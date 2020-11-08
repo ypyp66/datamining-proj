@@ -85,7 +85,7 @@
       "properties": {
         "SIG_CD": "42110",
         "SIG_ENG_NM": "Chuncheon-si",
-        "SIG_KOR_NM": "강원도 춘천시"
+        "SIG_KOR_NM": "춘천시"
       }
     },
     {
@@ -210,7 +210,7 @@
       "properties": {
         "SIG_CD": "42130",
         "SIG_ENG_NM": "Wonju-si",
-        "SIG_KOR_NM": "강원도 원주시"
+        "SIG_KOR_NM": "원주시"
       }
     },
     {
@@ -270,7 +270,7 @@
       "properties": {
         "SIG_CD": "42150",
         "SIG_ENG_NM": "Gangneung-si",
-        "SIG_KOR_NM": "강원도 강릉시"
+        "SIG_KOR_NM": "강릉시"
       }
     },
     {
@@ -301,7 +301,7 @@
       "properties": {
         "SIG_CD": "42170",
         "SIG_ENG_NM": "Donghae-si",
-        "SIG_KOR_NM": "강원도 동해시"
+        "SIG_KOR_NM": "동해시"
       }
     },
     {
@@ -464,7 +464,7 @@
       "properties": {
         "SIG_CD": "42190",
         "SIG_ENG_NM": "Taebaek-si",
-        "SIG_KOR_NM": "강원도 태백시"
+        "SIG_KOR_NM": "태백시"
       }
     },
     {
@@ -501,7 +501,7 @@
       "properties": {
         "SIG_CD": "42210",
         "SIG_ENG_NM": "Sokcho-si",
-        "SIG_KOR_NM": "강원도 속초시"
+        "SIG_KOR_NM": "속초시"
       }
     },
     {
@@ -621,7 +621,7 @@
       "properties": {
         "SIG_CD": "42230",
         "SIG_ENG_NM": "Samcheok-si",
-        "SIG_KOR_NM": "강원도 삼척시"
+        "SIG_KOR_NM": "삼척시"
       }
     },
     {
@@ -720,7 +720,7 @@
       "properties": {
         "SIG_CD": "42720",
         "SIG_ENG_NM": "Hongcheon-gun",
-        "SIG_KOR_NM": "강원도 홍천군"
+        "SIG_KOR_NM": "홍천군"
       }
     },
     {
@@ -850,7 +850,7 @@
       "properties": {
         "SIG_CD": "42730",
         "SIG_ENG_NM": "Hoengseong-gun",
-        "SIG_KOR_NM": "강원도 횡성군"
+        "SIG_KOR_NM": "횡성군"
       }
     },
     {
@@ -2477,7 +2477,7 @@
       "properties": {
         "SIG_CD": "42750",
         "SIG_ENG_NM": "Yeongwol-gun",
-        "SIG_KOR_NM": "강원도 영월군"
+        "SIG_KOR_NM": "영월군"
       }
     },
     {
@@ -2808,7 +2808,7 @@
       "properties": {
         "SIG_CD": "42760",
         "SIG_ENG_NM": "Pyeongchang-gun",
-        "SIG_KOR_NM": "강원도 평창군"
+        "SIG_KOR_NM": "평창군"
       }
     },
     {
@@ -3081,7 +3081,7 @@
       "properties": {
         "SIG_CD": "42770",
         "SIG_ENG_NM": "Jeongseon-gun",
-        "SIG_KOR_NM": "강원도 정선군"
+        "SIG_KOR_NM": "정선군"
       }
     },
     {
@@ -3152,7 +3152,7 @@
       "properties": {
         "SIG_CD": "42780",
         "SIG_ENG_NM": "Cheorwon-gun",
-        "SIG_KOR_NM": "강원도 철원군"
+        "SIG_KOR_NM": "철원군"
       }
     },
     {
@@ -3234,7 +3234,7 @@
       "properties": {
         "SIG_CD": "42790",
         "SIG_ENG_NM": "Hwacheon-gun",
-        "SIG_KOR_NM": "강원도 화천군"
+        "SIG_KOR_NM": "화천군"
       }
     },
     {
@@ -3279,7 +3279,7 @@
       "properties": {
         "SIG_CD": "42800",
         "SIG_ENG_NM": "Yanggu-gun",
-        "SIG_KOR_NM": "강원도 양구군"
+        "SIG_KOR_NM": "양구군"
       }
     },
     {
@@ -3351,7 +3351,7 @@
       "properties": {
         "SIG_CD": "42810",
         "SIG_ENG_NM": "Inje-gun",
-        "SIG_KOR_NM": "강원도 인제군"
+        "SIG_KOR_NM": "인제군"
       }
     },
     {
@@ -3399,7 +3399,7 @@
       "properties": {
         "SIG_CD": "42820",
         "SIG_ENG_NM": "Goseong-gun",
-        "SIG_KOR_NM": "강원도 고성군"
+        "SIG_KOR_NM": "고성군"
       }
     },
     {
@@ -3459,7 +3459,7 @@
       "properties": {
         "SIG_CD": "42830",
         "SIG_ENG_NM": "Yangyang-gun",
-        "SIG_KOR_NM": "강원도 양양군"
+        "SIG_KOR_NM": "양양군"
       }
     },
     {
@@ -17847,7 +17847,7 @@
       "properties": {
         "SIG_CD": "27110",
         "SIG_ENG_NM": "Jung-gu",
-        "SIG_KOR_NM": "대구광역시 중구"
+        "SIG_KOR_NM": "중구"
       }
     },
     {
@@ -17955,7 +17955,7 @@
       "properties": {
         "SIG_CD": "27140",
         "SIG_ENG_NM": "Dong-gu",
-        "SIG_KOR_NM": "대구광역시 동구"
+        "SIG_KOR_NM": "동구"
       }
     },
     {
@@ -17976,7 +17976,7 @@
       "properties": {
         "SIG_CD": "27170",
         "SIG_ENG_NM": "Seo-gu",
-        "SIG_KOR_NM": "대구광역시 서구"
+        "SIG_KOR_NM": "서구"
       }
     },
     {
@@ -17997,7 +17997,7 @@
       "properties": {
         "SIG_CD": "27200",
         "SIG_ENG_NM": "Nam-gu",
-        "SIG_KOR_NM": "대구광역시 남구"
+        "SIG_KOR_NM": "남구"
       }
     },
     {
@@ -18054,7 +18054,7 @@
       "properties": {
         "SIG_CD": "27230",
         "SIG_ENG_NM": "Buk-gu",
-        "SIG_KOR_NM": "대구광역시 북구"
+        "SIG_KOR_NM": "북구"
       }
     },
     {
@@ -18128,7 +18128,7 @@
       "properties": {
         "SIG_CD": "27260",
         "SIG_ENG_NM": "Suseong-gu",
-        "SIG_KOR_NM": "대구광역시 수성구"
+        "SIG_KOR_NM": "수성구"
       }
     },
     {
@@ -18313,7 +18313,7 @@
       "properties": {
         "SIG_CD": "27290",
         "SIG_ENG_NM": "Dalseo-gu",
-        "SIG_KOR_NM": "대구광역시 달서구"
+        "SIG_KOR_NM": "달서구"
       }
     },
     {
@@ -18532,7 +18532,7 @@
       "properties": {
         "SIG_CD": "27710",
         "SIG_ENG_NM": "Dalseong-gun",
-        "SIG_KOR_NM": "대구광역시 달성군"
+        "SIG_KOR_NM": "달성군"
       }
     },
     {
@@ -18578,7 +18578,7 @@
       "properties": {
         "SIG_CD": "30110",
         "SIG_ENG_NM": "Dong-gu",
-        "SIG_KOR_NM": "대전광역시 동구"
+        "SIG_KOR_NM": "동구"
       }
     },
     {
@@ -18606,7 +18606,7 @@
       "properties": {
         "SIG_CD": "30140",
         "SIG_ENG_NM": "Jung-gu",
-        "SIG_KOR_NM": "대전광역시 중구"
+        "SIG_KOR_NM": "중구"
       }
     },
     {
@@ -18651,7 +18651,7 @@
       "properties": {
         "SIG_CD": "30170",
         "SIG_ENG_NM": "Seo-gu",
-        "SIG_KOR_NM": "대전광역시 서구"
+        "SIG_KOR_NM": "서구"
       }
     },
     {
@@ -18884,7 +18884,7 @@
       "properties": {
         "SIG_CD": "30200",
         "SIG_ENG_NM": "Yuseong-gu",
-        "SIG_KOR_NM": "대전광역시 유성구"
+        "SIG_KOR_NM": "유성구"
       }
     },
     {
@@ -18936,7 +18936,7 @@
       "properties": {
         "SIG_CD": "30230",
         "SIG_ENG_NM": "Daedeok-gu",
-        "SIG_KOR_NM": "대전광역시 대덕구"
+        "SIG_KOR_NM": "대덕구"
       }
     },
     {
@@ -18955,7 +18955,7 @@
       "properties": {
         "SIG_CD": "26110",
         "SIG_ENG_NM": "Jung-gu",
-        "SIG_KOR_NM": "부산광역시 중구"
+        "SIG_KOR_NM": "중구"
       }
     },
     {
@@ -18977,7 +18977,7 @@
       "properties": {
         "SIG_CD": "26140",
         "SIG_ENG_NM": "Seo-gu",
-        "SIG_KOR_NM": "부산광역시 서구"
+        "SIG_KOR_NM": "서구"
       }
     },
     {
@@ -18998,7 +18998,7 @@
       "properties": {
         "SIG_CD": "26170",
         "SIG_ENG_NM": "Dong-gu",
-        "SIG_KOR_NM": "부산광역시 동구"
+        "SIG_KOR_NM": "동구"
       }
     },
     {
@@ -19036,7 +19036,7 @@
       "properties": {
         "SIG_CD": "26230",
         "SIG_ENG_NM": "Busanjin-gu",
-        "SIG_KOR_NM": "부산광역시 부산진구"
+        "SIG_KOR_NM": "부산진구"
       }
     },
     {
@@ -19058,7 +19058,7 @@
       "properties": {
         "SIG_CD": "26260",
         "SIG_ENG_NM": "Dongnae-gu",
-        "SIG_KOR_NM": "부산광역시 동래구"
+        "SIG_KOR_NM": "동래구"
       }
     },
     {
@@ -19083,7 +19083,7 @@
       "properties": {
         "SIG_CD": "26290",
         "SIG_ENG_NM": "Nam-gu",
-        "SIG_KOR_NM": "부산광역시 남구"
+        "SIG_KOR_NM": "남구"
       }
     },
     {
@@ -19109,7 +19109,7 @@
       "properties": {
         "SIG_CD": "26320",
         "SIG_ENG_NM": "Buk-gu",
-        "SIG_KOR_NM": "부산광역시 북구"
+        "SIG_KOR_NM": "북구"
       }
     },
     {
@@ -19133,7 +19133,7 @@
       "properties": {
         "SIG_CD": "26350",
         "SIG_ENG_NM": "Haeundae-gu",
-        "SIG_KOR_NM": "부산광역시 해운대구"
+        "SIG_KOR_NM": "해운대구"
       }
     },
     {
@@ -19156,7 +19156,7 @@
       "properties": {
         "SIG_CD": "26380",
         "SIG_ENG_NM": "Saha-gu",
-        "SIG_KOR_NM": "부산광역시 사하구"
+        "SIG_KOR_NM": "사하구"
       }
     },
     {
@@ -19181,7 +19181,7 @@
       "properties": {
         "SIG_CD": "26410",
         "SIG_ENG_NM": "Geumjeong-gu",
-        "SIG_KOR_NM": "부산광역시 금정구"
+        "SIG_KOR_NM": "금정구"
       }
     },
     {
@@ -19370,7 +19370,7 @@
       "properties": {
         "SIG_CD": "26440",
         "SIG_ENG_NM": "Gangseo-gu",
-        "SIG_KOR_NM": "부산광역시 강서구"
+        "SIG_KOR_NM": "강서구"
       }
     },
     {
@@ -19401,7 +19401,7 @@
       "properties": {
         "SIG_CD": "26470",
         "SIG_ENG_NM": "Yeonje-gu",
-        "SIG_KOR_NM": "부산광역시 연제구"
+        "SIG_KOR_NM": "연제구"
       }
     },
     {
@@ -19422,7 +19422,7 @@
       "properties": {
         "SIG_CD": "26500",
         "SIG_ENG_NM": "Suyeong-gu",
-        "SIG_KOR_NM": "부산광역시 수영구"
+        "SIG_KOR_NM": "수영구"
       }
     },
     {
@@ -19458,7 +19458,7 @@
       "properties": {
         "SIG_CD": "26530",
         "SIG_ENG_NM": "Sasang-gu",
-        "SIG_KOR_NM": "부산광역시 사상구"
+        "SIG_KOR_NM": "사상구"
       }
     },
     {
@@ -19497,7 +19497,7 @@
       "properties": {
         "SIG_CD": "26710",
         "SIG_ENG_NM": "Gijang-gun",
-        "SIG_KOR_NM": "부산광역시 기장군"
+        "SIG_KOR_NM": "기장군"
       }
     },
     {
@@ -19778,7 +19778,7 @@
       "properties": {
         "SIG_CD": "11110",
         "SIG_ENG_NM": "Jongno-gu",
-        "SIG_KOR_NM": "서울특별시 종로구"
+        "SIG_KOR_NM": "종로구"
       }
     },
     {
@@ -19804,7 +19804,7 @@
       "properties": {
         "SIG_CD": "11140",
         "SIG_ENG_NM": "Jung-gu",
-        "SIG_KOR_NM": "서울특별시 중구"
+        "SIG_KOR_NM": "중구"
       }
     },
     {
@@ -19829,7 +19829,7 @@
       "properties": {
         "SIG_CD": "11170",
         "SIG_ENG_NM": "Yongsan-gu",
-        "SIG_KOR_NM": "서울특별시 용산구"
+        "SIG_KOR_NM": "용산구"
       }
     },
     {
@@ -19858,7 +19858,7 @@
       "properties": {
         "SIG_CD": "11200",
         "SIG_ENG_NM": "Seongdong-gu",
-        "SIG_KOR_NM": "서울특별시 성동구"
+        "SIG_KOR_NM": "성동구"
       }
     },
     {
@@ -19901,7 +19901,7 @@
       "properties": {
         "SIG_CD": "11215",
         "SIG_ENG_NM": "Gwangjin-gu",
-        "SIG_KOR_NM": "서울특별시 광진구"
+        "SIG_KOR_NM": "광진구"
       }
     },
     {
@@ -20153,7 +20153,7 @@
       "properties": {
         "SIG_CD": "11230",
         "SIG_ENG_NM": "Dongdaemun-gu",
-        "SIG_KOR_NM": "서울특별시 동대문구"
+        "SIG_KOR_NM": "동대문구"
       }
     },
     {
@@ -20424,7 +20424,7 @@
       "properties": {
         "SIG_CD": "11260",
         "SIG_ENG_NM": "Jungnang-gu",
-        "SIG_KOR_NM": "서울특별시 중랑구"
+        "SIG_KOR_NM": "중랑구"
       }
     },
     {
@@ -21066,7 +21066,7 @@
       "properties": {
         "SIG_CD": "11290",
         "SIG_ENG_NM": "Seongbuk-gu",
-        "SIG_KOR_NM": "서울특별시 성북구"
+        "SIG_KOR_NM": "성북구"
       }
     },
     {
@@ -21251,7 +21251,7 @@
       "properties": {
         "SIG_CD": "11305",
         "SIG_ENG_NM": "Gangbuk-gu",
-        "SIG_KOR_NM": "서울특별시 강북구"
+        "SIG_KOR_NM": "강북구"
       }
     },
     {
@@ -21279,7 +21279,7 @@
       "properties": {
         "SIG_CD": "11320",
         "SIG_ENG_NM": "Dobong-gu",
-        "SIG_KOR_NM": "서울특별시 도봉구"
+        "SIG_KOR_NM": "도봉구"
       }
     },
     {
@@ -21535,7 +21535,7 @@
       "properties": {
         "SIG_CD": "11350",
         "SIG_ENG_NM": "Nowon-gu",
-        "SIG_KOR_NM": "서울특별시 노원구"
+        "SIG_KOR_NM": "노원구"
       }
     },
     {
@@ -21586,7 +21586,7 @@
       "properties": {
         "SIG_CD": "11380",
         "SIG_ENG_NM": "Eunpyeong-gu",
-        "SIG_KOR_NM": "서울특별시 은평구"
+        "SIG_KOR_NM": "은평구"
       }
     },
     {
@@ -21607,7 +21607,7 @@
       "properties": {
         "SIG_CD": "11410",
         "SIG_ENG_NM": "Seodaemun-gu",
-        "SIG_KOR_NM": "서울특별시 서대문구"
+        "SIG_KOR_NM": "서대문구"
       }
     },
     {
@@ -21649,7 +21649,7 @@
       "properties": {
         "SIG_CD": "11440",
         "SIG_ENG_NM": "Mapo-gu",
-        "SIG_KOR_NM": "서울특별시 마포구"
+        "SIG_KOR_NM": "마포구"
       }
     },
     {
@@ -21865,7 +21865,7 @@
       "properties": {
         "SIG_CD": "11470",
         "SIG_ENG_NM": "Yangcheon-gu",
-        "SIG_KOR_NM": "서울특별시 양천구"
+        "SIG_KOR_NM": "양천구"
       }
     },
     {
@@ -21895,7 +21895,7 @@
       "properties": {
         "SIG_CD": "11500",
         "SIG_ENG_NM": "Gangseo-gu",
-        "SIG_KOR_NM": "서울특별시 강서구"
+        "SIG_KOR_NM": "강서구"
       }
     },
     {
@@ -21994,7 +21994,7 @@
       "properties": {
         "SIG_CD": "11530",
         "SIG_ENG_NM": "Guro-gu",
-        "SIG_KOR_NM": "서울특별시 구로구"
+        "SIG_KOR_NM": "구로구"
       }
     },
     {
@@ -22055,7 +22055,7 @@
       "properties": {
         "SIG_CD": "11545",
         "SIG_ENG_NM": "Geumcheon-gu",
-        "SIG_KOR_NM": "서울특별시 금천구"
+        "SIG_KOR_NM": "금천구"
       }
     },
     {
@@ -22356,7 +22356,7 @@
       "properties": {
         "SIG_CD": "11560",
         "SIG_ENG_NM": "Yeongdeungpo-gu",
-        "SIG_KOR_NM": "서울특별시 영등포구"
+        "SIG_KOR_NM": "영등포구"
       }
     },
     {
@@ -22458,7 +22458,7 @@
       "properties": {
         "SIG_CD": "11590",
         "SIG_ENG_NM": "Dongjak-gu",
-        "SIG_KOR_NM": "서울특별시 동작구"
+        "SIG_KOR_NM": "동작구"
       }
     },
     {
@@ -22569,7 +22569,7 @@
       "properties": {
         "SIG_CD": "11620",
         "SIG_ENG_NM": "Gwanak-gu",
-        "SIG_KOR_NM": "서울특별시 관악구"
+        "SIG_KOR_NM": "관악구"
       }
     },
     {
@@ -22607,7 +22607,7 @@
       "properties": {
         "SIG_CD": "11650",
         "SIG_ENG_NM": "Seocho-gu",
-        "SIG_KOR_NM": "서울특별시 서초구"
+        "SIG_KOR_NM": "서초구"
       }
     },
     {
@@ -22636,7 +22636,7 @@
       "properties": {
         "SIG_CD": "11680",
         "SIG_ENG_NM": "Gangnam-gu",
-        "SIG_KOR_NM": "서울특별시 강남구"
+        "SIG_KOR_NM": "강남구"
       }
     },
     {
@@ -22680,7 +22680,7 @@
       "properties": {
         "SIG_CD": "11710",
         "SIG_ENG_NM": "Songpa-gu",
-        "SIG_KOR_NM": "서울특별시 송파구"
+        "SIG_KOR_NM": "송파구"
       }
     },
     {
@@ -22733,7 +22733,7 @@
       "properties": {
         "SIG_CD": "11740",
         "SIG_ENG_NM": "Gangdong-gu",
-        "SIG_KOR_NM": "서울특별시 강동구"
+        "SIG_KOR_NM": "강동구"
       }
     },
     {
@@ -23155,7 +23155,7 @@
       "properties": {
         "SIG_CD": "31110",
         "SIG_ENG_NM": "Jung-gu",
-        "SIG_KOR_NM": "울산광역시 중구"
+        "SIG_KOR_NM": "중구"
       }
     },
     {
@@ -23184,7 +23184,7 @@
       "properties": {
         "SIG_CD": "31140",
         "SIG_ENG_NM": "Nam-gu",
-        "SIG_KOR_NM": "울산광역시 남구"
+        "SIG_KOR_NM": "남구"
       }
     },
     {
@@ -23207,7 +23207,7 @@
       "properties": {
         "SIG_CD": "31170",
         "SIG_ENG_NM": "Dong-gu",
-        "SIG_KOR_NM": "울산광역시 동구"
+        "SIG_KOR_NM": "동구"
       }
     },
     {
@@ -23236,7 +23236,7 @@
       "properties": {
         "SIG_CD": "31200",
         "SIG_ENG_NM": "Buk-gu",
-        "SIG_KOR_NM": "울산광역시 북구"
+        "SIG_KOR_NM": "북구"
       }
     },
     {
@@ -23282,7 +23282,7 @@
       "properties": {
         "SIG_CD": "31710",
         "SIG_ENG_NM": "Ulju-gun",
-        "SIG_KOR_NM": "울산광역시 울주군"
+        "SIG_KOR_NM": "울주군"
       }
     },
     {
@@ -33018,7 +33018,7 @@
       "properties": {
         "SIG_CD": "44131",
         "SIG_ENG_NM": "Dongnam-gu, Cheonan-si",
-        "SIG_KOR_NM": "충청남도 천안시 동남구"
+        "SIG_KOR_NM": "천안시동남구"
       }
     },
     {
@@ -33061,7 +33061,7 @@
       "properties": {
         "SIG_CD": "44133",
         "SIG_ENG_NM": "Seobuk-gu, Cheonan-si",
-        "SIG_KOR_NM": "충청남도 천안시 서북구"
+        "SIG_KOR_NM": "천안시서북구"
       }
     },
     {
@@ -33149,7 +33149,7 @@
       "properties": {
         "SIG_CD": "44150",
         "SIG_ENG_NM": "Gongju-si",
-        "SIG_KOR_NM": "충청남도 공주시"
+        "SIG_KOR_NM": "공주시"
       }
     },
     {
@@ -33211,7 +33211,7 @@
       "properties": {
         "SIG_CD": "44180",
         "SIG_ENG_NM": "Boryeong-si",
-        "SIG_KOR_NM": "충청남도 보령시"
+        "SIG_KOR_NM": "보령시"
       }
     },
     {
@@ -33363,7 +33363,7 @@
       "properties": {
         "SIG_CD": "44200",
         "SIG_ENG_NM": "Asan-si",
-        "SIG_KOR_NM": "충청남도 아산시"
+        "SIG_KOR_NM": "아산시"
       }
     },
     {
@@ -33473,7 +33473,7 @@
       "properties": {
         "SIG_CD": "44210",
         "SIG_ENG_NM": "Seosan-si",
-        "SIG_KOR_NM": "충청남도 서산시"
+        "SIG_KOR_NM": "서산시"
       }
     },
     {
@@ -33515,7 +33515,7 @@
       "properties": {
         "SIG_CD": "44230",
         "SIG_ENG_NM": "Nonsan-si",
-        "SIG_KOR_NM": "충청남도 논산시"
+        "SIG_KOR_NM": "논산시"
       }
     },
     {
@@ -33618,7 +33618,7 @@
       "properties": {
         "SIG_CD": "44250",
         "SIG_ENG_NM": "Gyeryong-si",
-        "SIG_KOR_NM": "충청남도 계룡시"
+        "SIG_KOR_NM": "계룡시"
       }
     },
     {
@@ -33736,7 +33736,7 @@
       "properties": {
         "SIG_CD": "44270",
         "SIG_ENG_NM": "Dangjin-si",
-        "SIG_KOR_NM": "충청남도 당진시"
+        "SIG_KOR_NM": "당진시"
       }
     },
     {
@@ -33773,7 +33773,7 @@
       "properties": {
         "SIG_CD": "44710",
         "SIG_ENG_NM": "Geumsan-gun",
-        "SIG_KOR_NM": "충청남도 금산군"
+        "SIG_KOR_NM": "금산군"
       }
     },
     {
@@ -33822,7 +33822,7 @@
       "properties": {
         "SIG_CD": "44760",
         "SIG_ENG_NM": "Buyeo-gun",
-        "SIG_KOR_NM": "충청남도 부여군"
+        "SIG_KOR_NM": "부여군"
       }
     },
     {
@@ -33863,7 +33863,7 @@
       "properties": {
         "SIG_CD": "44770",
         "SIG_ENG_NM": "Seocheon-gun",
-        "SIG_KOR_NM": "충청남도 서천군"
+        "SIG_KOR_NM": "서천군"
       }
     },
     {
@@ -33913,7 +33913,7 @@
       "properties": {
         "SIG_CD": "44790",
         "SIG_ENG_NM": "Cheongyang-gun",
-        "SIG_KOR_NM": "충청남도 청양군"
+        "SIG_KOR_NM": "청양군"
       }
     },
     {
@@ -33995,7 +33995,7 @@
       "properties": {
         "SIG_CD": "44800",
         "SIG_ENG_NM": "Hongseong-gun",
-        "SIG_KOR_NM": "충청남도 홍성군"
+        "SIG_KOR_NM": "홍성군"
       }
     },
     {
@@ -34203,7 +34203,7 @@
       "properties": {
         "SIG_CD": "44810",
         "SIG_ENG_NM": "Yesan-gun",
-        "SIG_KOR_NM": "충청남도 예산군"
+        "SIG_KOR_NM": "예산군"
       }
     },
     {
@@ -34307,7 +34307,7 @@
       "properties": {
         "SIG_CD": "44825",
         "SIG_ENG_NM": "Taean-gun",
-        "SIG_KOR_NM": "충청남도 태안군"
+        "SIG_KOR_NM": "태안군"
       }
     },
     {
@@ -35033,7 +35033,7 @@
       "properties": {
         "SIG_CD": "43111",
         "SIG_ENG_NM": "Sangdang-gu, Cheongju-si",
-        "SIG_KOR_NM": "충청북도 청주시 상당구"
+        "SIG_KOR_NM": "청주시 상당구"
       }
     },
     {
@@ -35357,7 +35357,7 @@
       "properties": {
         "SIG_CD": "43112",
         "SIG_ENG_NM": "Seowon-gu, Cheongju-si",
-        "SIG_KOR_NM": "충청북도 청주시 서원구"
+        "SIG_KOR_NM": "청주시 서원구"
       }
     },
     {
@@ -35843,7 +35843,7 @@
       "properties": {
         "SIG_CD": "43113",
         "SIG_ENG_NM": "Heungdeok-gu, Cheongju-si",
-        "SIG_KOR_NM": "충청북도 청주시 흥덕구"
+        "SIG_KOR_NM": "청주시 흥덕구"
       }
     },
     {
@@ -36489,7 +36489,7 @@
       "properties": {
         "SIG_CD": "43114",
         "SIG_ENG_NM": "Cheongwon-gu, Cheongju-si",
-        "SIG_KOR_NM": "충청북도 청주시 청원구"
+        "SIG_KOR_NM": "청주시 청원구"
       }
     },
     {
@@ -36584,7 +36584,7 @@
       "properties": {
         "SIG_CD": "43130",
         "SIG_ENG_NM": "Chungju-si",
-        "SIG_KOR_NM": "충청북도 충주시"
+        "SIG_KOR_NM": "충주시"
       }
     },
     {
@@ -36839,7 +36839,7 @@
       "properties": {
         "SIG_CD": "43150",
         "SIG_ENG_NM": "Jecheon-si",
-        "SIG_KOR_NM": "충청북도 제천시"
+        "SIG_KOR_NM": "제천시"
       }
     },
     {
@@ -37232,7 +37232,7 @@
       "properties": {
         "SIG_CD": "43720",
         "SIG_ENG_NM": "Boeun-gun",
-        "SIG_KOR_NM": "충청북도 보은군"
+        "SIG_KOR_NM": "보은군"
       }
     },
     {
@@ -37272,7 +37272,7 @@
       "properties": {
         "SIG_CD": "43730",
         "SIG_ENG_NM": "Okcheon-gun",
-        "SIG_KOR_NM": "충청북도 옥천군"
+        "SIG_KOR_NM": "옥천군"
       }
     },
     {
@@ -37318,7 +37318,7 @@
       "properties": {
         "SIG_CD": "43740",
         "SIG_ENG_NM": "Yeongdong-gun",
-        "SIG_KOR_NM": "충청북도 영동군"
+        "SIG_KOR_NM": "영동군"
       }
     },
     {
@@ -37544,7 +37544,7 @@
       "properties": {
         "SIG_CD": "43745",
         "SIG_ENG_NM": "Jeungpyeong-gun",
-        "SIG_KOR_NM": "충청북도 증평군"
+        "SIG_KOR_NM": "증평군"
       }
     },
     {
@@ -37865,7 +37865,7 @@
       "properties": {
         "SIG_CD": "43750",
         "SIG_ENG_NM": "Jincheon-gun",
-        "SIG_KOR_NM": "충청북도 진천군"
+        "SIG_KOR_NM": "진천군"
       }
     },
     {
@@ -38126,7 +38126,7 @@
       "properties": {
         "SIG_CD": "43760",
         "SIG_ENG_NM": "Goesan-gun",
-        "SIG_KOR_NM": "충청북도 괴산군"
+        "SIG_KOR_NM": "괴산군"
       }
     },
     {
@@ -38229,7 +38229,7 @@
       "properties": {
         "SIG_CD": "43770",
         "SIG_ENG_NM": "Eumseong-gun",
-        "SIG_KOR_NM": "충청북도 음성군"
+        "SIG_KOR_NM": "음성군"
       }
     },
     {
@@ -38778,7 +38778,7 @@
       "properties": {
         "SIG_CD": "43800",
         "SIG_ENG_NM": "Danyang-gun",
-        "SIG_KOR_NM": "충청북도 단양군"
+        "SIG_KOR_NM": "단양군"
       }
     }
   ]
